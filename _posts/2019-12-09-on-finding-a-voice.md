@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Writing"
+title:  "On finding a voice"
 date:   2019-12-09 14:00:00 -0700
 ---
 
