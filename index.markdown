@@ -5,4 +5,4 @@
 layout: home
 ---
 
-A website to talk about computers, programming, teaching, music, writing, bicycles, and whatever else.
+I wrote a book with [Manning Publications](http://manning.com) called [Tiny Python Projects](https://www.manning.com/books/tiny-python-projects?a_aid=youens&a_bid=b6485d52).
